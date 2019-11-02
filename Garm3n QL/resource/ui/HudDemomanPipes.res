@@ -89,8 +89,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"34"
-			"ypos"			"r308"
+			"xpos"			"c105"
+			"ypos"			"r181"
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -113,8 +113,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelShadow"
-			"xpos"			"35"
-			"ypos"			"r307"
+			"xpos"			"c106"
+			"ypos"			"r180"
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -140,8 +140,8 @@
 			"enabled"		"1"
 			"zpos"			"2"
 
-			"xpos"			"4"
-			"ypos"			"r318"
+			"xpos"			"c69"
+			"ypos"			"r191"
 			"wide"			"34"
 			"tall"			"34"
 
@@ -159,8 +159,8 @@
 			"enabled"		"1"
 			"zpos"			"1"
 
-			"xpos"			"5"
-			"ypos"			"r317"
+			"xpos"			"c70"
+			"ypos"			"r190"
 			"wide"			"34"
 			"tall"			"34"
 
@@ -203,8 +203,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"34"
-			"ypos"			"r308"
+			"xpos"			"c105"
+			"ypos"			"r181"
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -227,8 +227,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelShadow"
-			"xpos"			"35"
-			"ypos"			"r307"
+			"xpos"			"c106"
+			"ypos"			"r180"
 			"zpos"			"2"
 			"wide"			"29"
 			"tall"			"24"
@@ -254,8 +254,8 @@
 			"enabled"		"1"
 			"zpos"			"2"
 
-			"xpos"			"4"
-			"ypos"			"r318"
+			"xpos"			"c69"
+			"ypos"			"r191"
 			"wide"			"34"
 			"tall"			"34"
 
@@ -273,8 +273,8 @@
 			"enabled"		"1"
 			"zpos"			"1"
 
-			"xpos"			"5"
-			"ypos"			"r317"
+			"xpos"			"c70"
+			"ypos"			"r190"
 			"wide"			"34"
 			"tall"			"34"
 

@@ -19,7 +19,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"0"	
-		"ypos"	"0"
+		"ypos"	"-52"
 		"wide"	"f0"
 		"tall"	"480"
 	}
@@ -54,8 +54,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"		"0"     	
-		"ypos"		"0"		
+		"xpos"			"283"
+		"ypos"			"r282"
 		"zpos"		"1"			
 		"wide"		"f0"	
 		"tall"		"480"	
@@ -68,8 +68,8 @@
 		"fieldName"		"HudMedicCharge"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"0"	
-		"ypos"	"0"
+		"xpos"			"0"		
+		"ypos"			"-52"
 		"wide"	"f0"
 		"tall"	"480"
 		"MeterFG"		"White"
@@ -220,7 +220,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
-		"ypos"		"293"
+		"ypos"		"252"
 		"wide"	 	"60"
 		"tall"	 	"30"
 		"priority"	"40"
@@ -232,7 +232,7 @@
 		"visible" 	"1"
 		"enabled" 	"1"
 		"xpos"		"c-120"
-		"ypos"		"330"
+		"ypos"		"304"
 		"wide"	 	"60"
 		"tall"	 	"33"
 		"priority"	"40"
@@ -244,7 +244,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
-		"ypos"		"314"
+		"ypos"		"283"
 		"wide"	 	"60"
 		"tall"	 	"30"
 		"priority"	"35"
@@ -359,7 +359,16 @@
 
 	HudDamageIndicator
 	{
-
+		"fieldName"	"HudDamageIndicator"
+		"visible"	"1"
+		"enabled"	"1"
+		"MinimumWidth"	"5"
+		"MaximumWidth"	"5"
+		"StartRadius"	"80"
+		"EndRadius"		"80"
+		"MinimumHeight"	"40"
+		"MaximumHeight"	"120"
+		"MinimumTime"	"1"
 	}
 
 	HudCommentary

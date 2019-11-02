@@ -3,10 +3,8 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"0"	
-		"ypos"			"0"	
+		"xpos"			"283"
+		"ypos"			"r282"
 		"wide"			"f0"
 		"tall"			"480"
 		"MeterFG"		"TanLight"
