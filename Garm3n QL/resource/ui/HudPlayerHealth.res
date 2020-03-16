@@ -76,8 +76,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"c-230"
-		"ypos"			"r105"	
+		"xpos"			"0"
+		"ypos"			"-2"	
 		"zpos"			"4"
 		"wide"			"140"
 		"tall"			"42"
@@ -87,6 +87,10 @@
 		"textAlignment"	"east"	
 		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
+
+		"pin_to_sibling"	"PlayerStatusHealthValue"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"PlayerStatusBleedImage"
 	{

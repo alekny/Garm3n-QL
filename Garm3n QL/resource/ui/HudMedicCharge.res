@@ -58,7 +58,33 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"Garm3nHUDWhite"
-		"font"			"Garm3nFontHugeShadow"
+		"font"			"Garm3nFontHuge"
+	}
+
+	"ChargeLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ChargeLabelShadow"
+		"xpos"	"0"
+		"ypos"	"-2"
+		"zpos"			"4"
+		"wide"	"170" 
+		"tall"	"42" 
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#TF_UberchargeMinHUD"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"fgcolor"		"Garm3nHUDDarkGrey"
+		"font"			"Garm3nFontHuge"
+
+		"pin_to_sibling"	"ChargeLabel"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"ChargeMeter"

@@ -59,8 +59,8 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
-		"xpos"	"c-49"
-		"ypos"	"r105"
+		"xpos"			"0"
+		"ypos"			"-2"
 		"zpos"			"4"
 		"wide"	"100" 
 		"tall"	"42"
@@ -68,6 +68,10 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%Ammo%"
+
+		"pin_to_sibling"	"AmmoInClip"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"AmmoInReserve"
 	{
@@ -91,8 +95,8 @@
 		"fieldName"		"AmmoInReserveShadow"
 		"font"	"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
-		"xpos"	"c73"
-		"ypos"			"r105"
+		"xpos"			"0"
+		"ypos"			"-2"
 		"zpos"			"7"
 		"wide"			"140"
 		"tall"			"42"
@@ -100,6 +104,10 @@
 		"enabled"		"1"
 		"textAlignment"	"west"
 		"labelText"		"%AmmoInReserve%"
+
+		"pin_to_sibling"	"AmmoInReserve"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"AmmoNoClip"
 	{
@@ -124,8 +132,8 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"Garm3nFontHuge"
 		"fgcolor"		"Garm3nHUDDarkGrey"
-		"xpos"	"c73"
-		"ypos"			"r105"
+		"xpos"			"0"
+		"ypos"			"-2"
 		"zpos"			"4"
 		"wide"	"140" 
 		"tall"	"42"
@@ -133,5 +141,9 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%Ammo%"
+
+		"pin_to_sibling"	"AmmoNoClip"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 }

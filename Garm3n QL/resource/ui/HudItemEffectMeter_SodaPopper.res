@@ -80,8 +80,8 @@
 		"enabled"		"1"
 		"zpos"			"1"
 
-		"xpos"			"1"
-		"ypos"			"r273"
+		"xpos"			"0"
+		"ypos"			"-1"
 		"wide"			"35"
 		"tall"			"36"
 
@@ -89,7 +89,11 @@
 		"labelText"		"P"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"Garm3nHUDDarkGrey"
+
+		"pin_to_sibling"	"EffectIcon"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"ItemEffectMeter"

@@ -99,8 +99,8 @@
 		"enabled"		"1"
 		"zpos"			"1"
 
-		"xpos"			"1"
-		"ypos"			"r339"
+		"xpos"			"0"
+		"ypos"			"-1"
 		"wide"			"34"
 		"tall"			"34"
 
@@ -108,7 +108,11 @@
 		"labelText"		"s"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"15 15 15 255"
+		"fgcolor"		"Garm3nHUDDarkGrey"
+
+		"pin_to_sibling"	"CounterIcon"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"ItemEffectMeterCount"
@@ -135,8 +139,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"			"35"	
-		"ypos"			"r334"
+		"xpos"			"0"	
+		"ypos"			"-1"
 		"zpos"					"2"
 		"wide"					"51"
 		"tall"					"30"	
@@ -150,5 +154,9 @@
 		"brighttext"			"0"
 		"fgcolor"		"Garm3nHUDDarkGrey"
 		"font"					"Garm3nFontMedium"
+
+		"pin_to_sibling"	"ItemEffectMeterCount"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 }
